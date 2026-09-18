@@ -55,7 +55,7 @@ This repository tracks top **SaaS platforms** and **open-source projects** for *
 
 ## 🔓 Open-Source GitHub Projects
 
-| Open-Source Project 🛠️ | GitHub Stars ⭐ | License 📄 | Primary Focus & Description 🎯 |
+| Open-Source Project 🛠️ | GitHub_Stars ⭐ | License 📄 | Primary Focus & Description 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[MLflow](https://github.com/mlflow/mlflow)** | [<img src="https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white" alt="MLflow Stars"/>](https://github.com/mlflow/mlflow/stargazers) | Apache-2.0 | Open-source platform for the complete ML lifecycle including model evaluation, tracking, and metric logging. |
 | **[Langfuse](https://github.com/langfuse/langfuse)** | [<img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="Langfuse Stars"/>](https://github.com/langfuse/langfuse/stargazers) | MIT | Open-source LLM engineering platform for tracing, evaluation, prompt management, and production observability. |
